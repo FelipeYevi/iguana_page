@@ -1,0 +1,109 @@
+body {
+  font-family: "raleway";
+  background-color: black;
+  height: 1937px;
+}
+
+header h1 {
+  display: flex;
+  color: white;
+  width: 221px;
+  height: 59px;
+  margin-left: 530px;
+  margin-right: 529px;
+  font-size: 50px;
+  justify-content: left;
+  margin-top: 7px;
+}
+.image1 {
+  display: flex;
+}
+.informacion {
+  display: flex;
+  width: 1280px;
+  height: 348px;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.flex-item1 {
+  width: 475px;
+}
+
+.flex-item2 img {
+  width: 400px;
+  height: 237px;
+}
+
+.informacion p {
+  font-weight: lighter;
+  color: white;
+}
+.caracteristicas {
+  width: 1280px;
+  height: auto;
+  background-color: #1e1a13;
+  padding-bottom: 120px;
+}
+
+.icons {
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+.caracteristicas h2 {
+  color: white;
+  font-size: 40px;
+  padding: 75px;
+  display: flex;
+  text-align: left;
+  justify-content: center;
+}
+.caracteristicas p {
+  font-size: 25px;
+  font-weight: lighter;
+}
+.galeria {
+  display: flex;
+  width: 1280px;
+  height: 348px;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.galeria-1 {
+  width: 316px;
+  height: 202px;
+}
+.galeria-1 img {
+  width: 100%;
+  height: 202px;
+}
+.galeria-2 {
+  width: 316px;
+  height: 202px;
+}
+.galeria-2 img {
+  width: 100%;
+  height: 202px;
+}
+.galeria-3 {
+  width: 316px;
+  height: 202px;
+}
+.galeria-3 img {
+  width: 100%;
+  height: 202px;
+}
+footer {
+  width: 1280px;
+  height: 102px;
+  background-color: #1e1a13;
+  text-align: center;
+}
+footer p {
+  color: white;
+  font-size: 20px;
+  padding-top: 39px;
+  font-weight: lighter;
+}
